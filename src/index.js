@@ -5,3 +5,8 @@ ReactDOM.render(
   <ControlledInput />,
   document.getElementById('root')
 );
+
+// handleSubmit = event => {
+//   event.preventDefault()
+//   this.sendFormDataSomewhere(this.state)
+// }
